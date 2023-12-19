@@ -1,0 +1,18 @@
+<clothing_store>
+    <store city="Минск" street="Славинского 9">
+        <item>
+            <company>LG</company>
+            <type>Холодильник</type>
+            <model>Ultra Freeze</model>
+            <price>1350</price>
+        </item>
+    </store>
+    <store city="Барановичи" street="Бадака 41">
+        <item>
+            <company>Атлант</company>
+            <type>Стиральная машинв</type>
+            <model>P1000 pro</model>
+            <price>960</price>
+        </item>
+    </store>
+</clothing_store>

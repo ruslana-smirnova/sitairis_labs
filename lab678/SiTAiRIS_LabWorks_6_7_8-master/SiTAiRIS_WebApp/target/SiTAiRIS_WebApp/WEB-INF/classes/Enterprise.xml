@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enterprise>
+    <name>ООО "Третьекурсница"</name>
+    <administration>
+        <administrator passNumber="001">
+            <post>Генеральный директор</post>
+            <fullName>Ильин Илья Ильич</fullName>
+            <age>59</age>
+            <stage>24</stage>
+        </administrator>
+
+        <administrator passNumber="002">
+            <post>Первый заместитель генерального директора</post>
+            <fullName>Сергеев Сергей Сергеевич</fullName>
+            <age>51</age>
+            <stage>14</stage>
+        </administrator>
+
+        <administrator passNumber="003">
+            <post>HR-менеджер</post>
+            <fullName>Иванов Иван Иванович</fullName>
+            <age>38</age>
+            <stage>6</stage>
+        </administrator>
+
+        <administrator passNumber="004">
+            <post>Главный бухгалтер</post>
+            <fullName>Петрович Петр Петрович</fullName>
+            <age>39</age>
+            <stage>9</stage>
+        </administrator>
+
+        <administrator passNumber="005">
+            <post>Идеолог</post>
+            <fullName>Денисов Денис Денисович</fullName>
+            <age>55</age>
+            <stage>21</stage>
+        </administrator>
+    </administration>
+
+    <employees>
+        <employee passNumber="101">
+            <fullName>Евгеньев Евгений Евгеньевич</fullName>
+            <hours>170</hours>
+            <salary>1003</salary>
+        </employee>
+
+        <employee passNumber="102">
+            <fullName>Александров Александр Александрович</fullName>
+            <hours>176</hours>
+            <salary>1085</salary>
+        </employee>
+
+        <employee passNumber="103">
+            <fullName>Викторов Виктор Викторович</fullName>
+            <hours>154</hours>
+            <salary>860</salary>
+        </employee>
+
+        <employee passNumber="104">
+            <fullName>Данилов Данила Данилович</fullName>
+            <hours>159</hours>
+            <salary>870</salary>
+        </employee>
+
+        <employee passNumber="105">
+            <fullName>Максимов Максим Максимович</fullName>
+            <hours>173</hours>
+            <salary>1112</salary>
+        </employee>
+
+        <employee passNumber="106">
+            <fullName>Егоров Егор Егорович</fullName>
+            <hours>172</hours>
+            <salary>1050</salary>
+        </employee>
+
+        <employee passNumber="107">
+            <fullName>Григорьев Григорий Григорьевич</fullName>
+            <hours>161</hours>
+            <salary>950</salary>
+        </employee>
+
+        <employee passNumber="108">
+            <fullName>Андреев Андрей Андреевич</fullName>
+            <hours>166</hours>
+            <salary>998</salary>
+        </employee>
+
+        <employee passNumber="109">
+            <fullName>Васильев Василий Васильевич</fullName>
+            <hours>160</hours>
+            <salary>940</salary>
+        </employee>
+    </employees>
+</enterprise>
